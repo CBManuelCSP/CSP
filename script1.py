@@ -8,5 +8,5 @@ area = longitud * anchura
 print("El área del rectángulo es: ", area)
 
 # Agora con un círculo
-radio = float(input("Introduce el radio del círculo"))
+radio = float(input("Introduce el radio del círculo (Modificación web)"))
 print("El área del círculo es ", radio*radio*3.14)
